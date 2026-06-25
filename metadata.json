@@ -1,0 +1,6 @@
+{
+  "name": "ResearchGPT",
+  "description": "An interactive AI-powered research paper analysis platform with chat, sidebar history, and clean dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
