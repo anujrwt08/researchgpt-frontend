@@ -11,5 +11,4 @@
 - Frontend: React 19, Vite
 - Styling: Tailwind CSS 4
 - UI and motion: Lucide React, Motion
-- AI integration: @google/genai
-- Backend/runtime helpers: Express, dotenv
+
